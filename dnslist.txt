@@ -1,0 +1,73 @@
+1;Google Public DNS;8.8.8.8;8.8.4.4;...;Ipv4 Default
+2;OpenDNS;208.67.222.222;208.67.220.220;...;Ipv4 Default
+3;OpenDNS - 2;208.67.222.220;208.67.220.222;...;Ipv4 Default
+4;Yandex;77.88.8.1;77.88.8.8;...;Ipv4 Default
+5;Cloudflare;1.1.1.1;1.0.0.1;...;Ipv4 Default
+6;Norton ConnectSafe Basic;199.85.126.10;199.85.127.10;...;Ipv4 Default
+7;Level 3 - A;209.244.0.3;209.244.0.4;...;Ipv4 Default
+8;Level 3 - B;4.2.2.1;4.2.2.2;...;Ipv4 Default
+9;Level 3 - C;4.2.2.3;4.2.2.4;...;Ipv4 Default
+10;Level 3 - D;4.2.2.5;4.2.2.6;...;Ipv4 Default
+11;Comodo Secure;8.26.56.26;8.20.247.20;...;Ipv4 Default
+12;Dyn;216.146.35.35;216.146.36.36;...;Ipv4 Default
+13;Norton DNS;198.153.192.1;198.153.194.1;...;Ipv4 Default
+14;Comodo;156.154.70.22;156.154.71.22;...;Ipv4 Default
+15;VeriSign Public DNS;64.6.64.6;64.6.65.6;...;Ipv4 Default
+16;Qwest;205.171.3.65;205.171.2.65;...;Ipv4 Default
+17;Sprint;204.97.212.10;204.117.214.10;...;Ipv4 Default
+18;Safe DNS;195.46.39.39;195.46.39.40;...;Ipv4 Default
+19;DNS WATCH;84.200.69.80;84.200.70.40;...;Ipv4 Default
+20;Sprintlink;199.2.252.10;204.97.212.10;...;Ipv4 Default
+21;UltraDNS;204.69.234.1;204.74.101.1;...;Ipv4 Default
+22;Zen Internet;212.23.8.1;212.23.3.1;...;Ipv4 Default
+23;Orange DNS;195.92.195.94;195.92.195.95;...;Ipv4 Default
+24;Hurricane Electric;74.82.42.42;;...;Ipv4 Default
+25;Freenom World;80.80.80.80;80.80.81.81;...;Ipv4 Default
+26;FDN;80.67.169.12;80.67.169.40;...;Ipv4 Default
+27;Neustar 1;156.154.70.1;156.154.71.1;...;Ipv4 Default
+28;Neustar 2;156.154.70.5;156.154.71.5;...;Ipv4 Default
+29;AdGuard;94.140.14.14;94.140.15.15;...;Ipv4 Default
+30;Quad9 Security;9.9.9.9;149.112.112.112;...;Ipv4 Default
+31;Quad9 No Security;9.9.9.10;149.112.112.10;...;Ipv4 Default
+32;NextDNS;45.90.28.230;45.90.30.230;...;Ipv4 Default
+33;Censurfridns;89.233.43.71;91.239.100.100;...;Ipv4 Default
+34;OpenDNS Family;208.67.222.123;208.67.220.123;...;Ipv4 Family
+35;Norton ConnectSafe Family;199.85.126.30;199.85.127.30;...;Ipv4 Family
+36;Yandex Family;77.88.8.7;77.88.8.3;...;Ipv4 Family
+37;Cloudflare Malware + Adult Blocking;1.1.1.3;1.0.0.3;...;Ipv4 Family
+38;CleanBrowsing Family;185.228.168.168;185.228.169.168;...;Ipv4 Family
+39;CleanBrowsing Adult Filter;185.228.168.10;185.228.169.11;...;Ipv4 Family
+40;Neustar Family Secure;156.154.70.3;156.154.71.3;...;Ipv4 Family
+41;Neustar Business Secure;156.154.70.4;156.154.71.4;...;Ipv4 Family
+42;AdGuard Family;94.140.14.15;94.140.15.16;...;Ipv4 Family
+43;Norton ConnectSafe Secure;199.85.126.20;199.85.127.20;...;Ipv4 Secure
+44;Yandex Safe;77.88.8.88;77.88.8.2;...;Ipv4 Secure
+45;Cloudflare Malware Blocking;1.1.1.2;1.0.0.2;...;Ipv4 Secure
+46;Comodo Secure;8.26.56.26;8.20.247.20;...;Ipv4 Secure
+47;CleanBrowsing Secure;185.228.168.9;185.228.169.9;...;Ipv4 Secure
+48;NeustarThreat Protection;156.154.70.2;156.154.71.2;...;Ipv4 Secure
+49;Google Public DNS;2001:4860:4860::8888;2001:4860:4860::8844;...;Ipv6 Default
+50;OpenDNS Sandbox;2620:0:ccc::2;2620:0:ccd::2;...;Ipv6 Default
+51;Yandex DNS;2a02:6b8::feed:0ff;2a02:6b8:0:1::feed:0ff;...;Ipv6 Default
+52;Cloudflare;2606:4700:4700::1111;2606:4700:4700::1001;...;Ipv6 Default
+53;Censurfridns;2001:67c:28a4::;2a01:3a0:53:53::;...;Ipv6 Default
+54;Cesidian Root;2001:470:6c:521::2;2001:470:6d:521::1;...;Ipv6 Default
+55;DNS WATCH;2001:1608:10:25::1c04:b12f; 2001:1608:10:25::9249:d69b;...;Ipv6 Default
+56;FDN;2001:910:800::12; 2001:910:800::40;...;Ipv6 Default
+57;Neustar 1;2610:a1:1018::1; 2610:a1:1019::1;...;Ipv6 Default
+58;Neustar 2;2610:a1:1018::5; 2610:a1:1019::5;...;Ipv6 Default
+59;AdGuard;2a10:50c0::ad1:ff;2a10:50c0::ad2:ff;...;Ipv6 Default
+60;Quad9 Security;2620:fe::fe;2620:fe::9;...;Ipv6 Default
+61;Quad9 No Security;2620:fe::10;2620:fe::fe:10;...;Ipv6 Default
+62;NextDNS;2a07:a8c0::46:1af1;2a07:a8c1::46:1af1;...;Ipv6 Default
+63;Yandex Family;2a02:6b8::feed:a11;2a02:6b8:0:1::feed:a11
+64;Cloudflare Malware + Adult Blocking;2606:4700:4700::1113;2606:4700:4700::1003;...;Ipv6 Family
+65;CleanBrowsing Family;2a0d:2a00:1::;2a0d:2a00:2::;...;Ipv6 Family
+66;CleanBrowsing Adult Filter;2a0d:2a00:1::1;2a0d:2a00:2::1;...;Ipv6 Family
+67;Neustar Family Secure;2610:a1:1018::3; 2610:a1:1019::3;...;Ipv6 Family
+68;Neustar Business Secure;2610:a1:1018::4; 2610:a1:1019::4;...;Ipv6 Family
+69;AdGuard Family;2a10:50c0::bad1:ff;2a10:50c0::bad2:ff;...;Ipv6 Family
+70;Yandex Safe;2a02:6b8::feed:bad;2a02:6b8:0:1::feed:bad;...;Ipv6 Secure
+71;Cloudflare Malware Blocking;2606:4700:4700::1112;2606:4700:4700::1002;...;Ipv6 Secure
+72;CleanBrowsing Secure;2a0d:2a00:1::2;2a0d:2a00:2::2;...;Ipv6 Secure
+73;NeustarThreat Protection;2610:a1:1018::2;2610:a1:1019::2;...;Ipv6 Secure
