@@ -48,7 +48,7 @@ Pengguna dapat menambah, menghapus, atau mengedit daftar DNS langsung dari file 
 File daftar DNS menggunakan format **split**, diproses dengan:
 
 ```
-Split([';', ',', '|', '='])
+';', ',', '|', '='
 ```
 
 Artinya Anda dapat memisahkan data menggunakan:
