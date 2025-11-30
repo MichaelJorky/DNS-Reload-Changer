@@ -30,7 +30,7 @@ Setiap DNS dalam daftar akan diuji kecepatan resolve-nya (latency).
 Hasilnya ditampilkan berwarna:
 
 * **Hijau** → DNS cepat & dapat digunakan
-* **Kuning** → DNS sedang
+* **Kuning** → DNS sedang di cek / digunakan untuk rotasi
 * **Merah** → DNS tidak dapat digunakan / gagal resolve
 
 ### ✅ **4. User-Friendly**
